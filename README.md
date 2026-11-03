@@ -1,1 +1,0 @@
-# upper-zinc-model-api
